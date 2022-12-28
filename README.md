@@ -1,4 +1,4 @@
-# desafio-clase-6-vue-js
+# desafio complementario, connvirtiendo vue cdn a vue cli
 
 ## Project setup
 ```
