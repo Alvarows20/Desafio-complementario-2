@@ -1,4 +1,4 @@
-# desafio complementario, connvirtiendo vue cdn a vue cli
+# desafio complementario vue cdn a vue cli
 
 ## Project setup
 ```
